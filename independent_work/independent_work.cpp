@@ -52,7 +52,6 @@ int main()
     int negative_number = 0;
     int positive_number = 0;
     int zero_number = 0;
-    string Exit = "exit";
     do {
         cin >> a;
         if (a < 0) 
